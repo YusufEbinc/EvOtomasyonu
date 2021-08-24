@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "575250279953",
+    "project_id": "evapp-7473d",
+    "storage_bucket": "evapp-7473d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575250279953:android:0010c9339c88f48ab0cbb0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ev_gider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575250279953-pcg1meg45263u9eu0kib277pmhv1oda0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_ev_gider_app",
+            "certificate_hash": "ff4218a80e4a41755a147f3ef0da8908c42917ad"
+          }
+        },
+        {
+          "client_id": "575250279953-fee5dftm1vtiq74u3g74ciui4dbgqjfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLSvFE1uyGcffJdAafBTu1WgiOQnJlUwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575250279953-fee5dftm1vtiq74u3g74ciui4dbgqjfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
